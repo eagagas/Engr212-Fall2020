@@ -20,4 +20,3 @@ Name List
 17. Jina Shin
 18. Hinal Halani
 19. Earvin Agagas
-
